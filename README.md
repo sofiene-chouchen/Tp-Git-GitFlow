@@ -2,8 +2,8 @@
 
 ## Objectfs:
 
-• Se familiariser avec Git, un système de ges�on de version décentralisé largement u�lisé
-• Apprendre à gérer des projets, collaborer avec d'autres développeurs et u�liser les fonc�onnalités avancées de Git.
+- Se familiariser avec Git, un système de ges�on de version décentralisé largement u�lisé
+- Apprendre à gérer des projets, collaborer avec d'autres développeurs et utliser les fonc�onnalités avancées de Git.
 
 ## Travail effectué
 
@@ -12,8 +12,12 @@
 - corrigé le conflict est merge
 - decouvrire les different branches de Git Flow et son utilité
 
+## Git Kraken
+
+![image!](images/gitKraken.png)
+
 ## Github Badge
 
 ![image!](images/Badge.png)
 
-  Après avoir corrigé le conflit, on obtient le badge.
+Après avoir corrigé le conflit, on obtient le badge.
